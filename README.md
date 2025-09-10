@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Ciao, sono Francesco
+- 🌍 Parlo correntemente **Italiano** e **Inglese**
+- 🎵 Appassionato di musica
+- ✈️ Amo viaggiare e scoprire nuove culture
+- ⚽ Giocatore di calcio a 5 in serie a2, con esperienza in lavoro di squadra e disciplina sportiva
+- 📚 Sempre curioso di imparare nuove tecnologie
 
-<!--
-**Francesco020/Francesco020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studente di Informatica presso **Università degli Studi dell'Aquila**
 
-Here are some ideas to get you started:
+💻 Appassionato di programmazione, sviluppo web e cyber security  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tecnologie e linguaggi
+- Java ☕
+- C 🔧
+- Python 🐍
+- HTML / CSS / JavaScript 🌐
+- Git & GitHub 🗂️
+
+---
+
+## 📂 Cosa troverai qui
+- Progetti universitari 📘
+- Piccoli progetti personali 💡
+- Esperimenti di cyber security 🔒
+- Progetti di sviluppo web 🌐
+
+
+---
+
+## 🌱 Obiettivi attuali
+- Creare e mantenere il mio sito personale come portfolio online  
+- Contribuire a progetti open source per migliorare le mie competenze collaborative
+- Ampliare le mie conoscenze in cyber security e sviluppo web, con un focus pratico sulle applicazioni reali 🔐
+
+---
+
+## 📫 Contatti 
+- Email: francescobucci2002@gmail.com
+
